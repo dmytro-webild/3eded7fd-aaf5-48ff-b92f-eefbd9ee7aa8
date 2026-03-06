@@ -56,7 +56,7 @@ export default function LandingPage() {
           imageAlt="NEO Books and Coffee cozy interior with warm lighting"
           mediaAnimation="slide-up"
           buttons={[
-            { text: "Call Now", href: "tel:+919876543210" },
+            { text: "Get Started", href: "#contact" },
             { text: "Reserve Table", href: "#contact" },
           ]}
           buttonAnimation="blur-reveal"
