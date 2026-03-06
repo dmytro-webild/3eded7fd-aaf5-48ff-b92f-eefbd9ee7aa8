@@ -196,8 +196,8 @@ export default function LandingPage() {
           imageSrc="http://img.b2bpic.net/free-photo/burning-candle-table_140725-8115.jpg"
           imageAlt="NEO Books and Coffee welcoming ambience"
           mediaAnimation="slide-up"
-          inputPlaceholder="your@email.com"
-          buttonText="Subscribe"
+          inputPlaceholder="Enter your email"
+          buttonText="Reserve Now"
           termsText="We respect your privacy. Unsubscribe anytime. We'll only send updates about events and special offers."
         />
       </div>
